@@ -1,2 +1,0 @@
-# femicore-com
-Static site

@@ -1,0 +1,26 @@
+# FemiCore
+
+> FemiCore is a Women's urinary tract & bladder health supplement. FemiCore is a daily dietary supplement formulated to support women's urinary tract health, bladder control, and urinary microbiome balance. It is designed to be taken once a day as part of a regular wellness routine, using a blend of ingredients that target the urinary system and the microbial environment of the bladder and urinary tract. Unlike general-purpose women's multivitamins, FemiCore focuses specifically on the lower urinary tract, helping maintain a healthy balance of flora while supporting normal bladder function and control. The formula is intended for adult women seeking proactive, ongoing support for urinary comfort and confidence.
+
+## Pages
+- [Home — overview, pricing and FAQ](https://femicore-com.onrender.com/)
+- [What FemiCore is](https://femicore-com.onrender.com/what-is-product.html)
+- [How FemiCore works](https://femicore-com.onrender.com/how-it-works.html)
+- [FemiCore ingredients, explained individually](https://femicore-com.onrender.com/ingredients.html)
+- [FemiCore benefits](https://femicore-com.onrender.com/benefits.html)
+- [FemiCore customer reviews](https://femicore-com.onrender.com/reviews.html)
+- [FemiCore frequently asked questions](https://femicore-com.onrender.com/faq.html)
+
+## Blog
+- [What To Know Before Trying FemiCore](https://femicore-com.onrender.com/blog/what-to-know-before-trying.html): A clear, honest look at FemiCore — what it contains, how it is used, what it costs, and the guarantee behind it — before you decide to order.
+- [How To Read A Supplement Label](https://femicore-com.onrender.com/blog/how-to-read-a-supplement-label.html): Serving size, proprietary blends and other ingredients explained — using FemiCore's own label as a real example of what to look for.
+- [FemiCore: An Honest Review](https://femicore-com.onrender.com/blog/femicore-honest-review.html): An honest look at FemiCore — what it claims to do, what it actually contains, what it costs, and who it is realistically a good fit for.
+- [D-Mannose vs Cranberry Extract: What Each Does In FemiCore](https://femicore-com.onrender.com/blog/d-mannose-vs-cranberry-extract.html): D-Mannose and Cranberry Extract are both in FemiCore but play different roles — here is what each one actually does in the formula.
+- [Daily Habits That Complement FemiCore](https://femicore-com.onrender.com/blog/daily-habits-that-complement-it.html): Simple daily habits — hydration, timing, consistency — that pair well with FemiCore as part of a women's urinary tract & bladder health routine.
+- [FemiCore FAQ: Dosage, Timing, Who Should Skip It](https://femicore-com.onrender.com/blog/femicore-faq.html): Common questions about FemiCore — dosage, timing, the guarantee, and who should skip it — answered directly.
+- [Terms of Use](https://femicore-com.onrender.com/terms.html)
+- [Privacy Policy](https://femicore-com.onrender.com/privacy-policy.html)
+- [Disclaimer](https://femicore-com.onrender.com/disclaimer.html)
+- [Refund Policy](https://femicore-com.onrender.com/refund-policy.html)
+- [About Us](https://femicore-com.onrender.com/about.html)
+- [Contact Us](https://femicore-com.onrender.com/contact.html)
